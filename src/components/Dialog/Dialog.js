@@ -35,7 +35,7 @@ const Dialog = (props) => {
                 className="dialog-button"
                 variant="outlined"
               >
-                Nooooo
+                No
               </Button>
               <Button
                 onClick={onYesButtonClick}
